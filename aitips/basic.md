@@ -1,5 +1,7 @@
 Berikut konten lengkap tentang **High Income Skill** sesuai format terbaik:
 
+PROMPT: Buatkan konten Threads tentang high income skill + caption IG
+
 ---
 
 ## **Threads**
