@@ -169,3 +169,109 @@ Ketik **CONVERT** kalau kamu mau formula konten yang closing 🚀
 ---
 
 Kamu mau aku bantu buatkan **versi carousel visual guide (judul tiap slide + ide desain)** biar langsung bisa dibikin di Canva?
+
+Nice! 🔥
+Berikut **versi carousel visual guide** biar kamu bisa langsung bikin di **Canva / Instagram Threads format slide**.
+Aku buat dua gaya (A = Emotional, B = Marketing-driven) lengkap dengan **judul tiap slide + ide desain visual** 👇
+
+---
+
+## 💔 **Versi A – Emotional / Storytelling**
+
+**🎨 Tema visual:**
+Tone warna hangat (cream, peach, atau beige). Font tegas tapi lembut (pake *Playfair Display* + *Poppins*). Tambah elemen garis lembut, foto ekspresi manusia, dan sentuhan hand-drawn icons.
+
+### Slide Guide:
+
+**Slide 1:**
+🖤 *Judul:* “Views Gede Tapi Nggak Ada yang Beli 😞”
+📸 Visual: ilustrasi orang bengong depan HP, notif banyak tapi wajah kecewa.
+
+**Slide 2:**
+*Judul kecil:* “Aku pernah ada di situasi ini.”
+📸 Visual: screenshot simulasi video 100K views + teks kecil “tapi 0 order”.
+
+**Slide 3:**
+*Judul kecil:* “Rasanya campur aduk — seneng tapi sedih.”
+📸 Visual: background blur video viral + emoji 😅 dan 💔.
+
+**Slide 4:**
+*Judul kecil:* “Masalahnya bukan di produk, tapi di arah kontenku.”
+📸 Visual: dua arah panah — “jualan” vs “bantu orang”.
+
+**Slide 5:**
+*Judul kecil:* “Begitu ubah gaya ngomong, hasil mulai keliatan.”
+📸 Visual: perbandingan dua postingan — kiri viral tanpa jualan, kanan kecil tapi laku.
+
+**Slide 6:**
+*Judul kecil:* “Views turun, tapi trust naik.”
+📸 Visual: grafik kecil menurun di “views” tapi naik di “kepercayaan”.
+
+**Slide 7:**
+💬 *Judul CTA:* “Kamu juga pernah ngerasa gini?”
+📸 Visual: teks besar “Tulis ‘SAMA’ di komen 🤝” dengan background netral lembut.
+
+---
+
+## 🚀 **Versi B – Marketing-Driven / Strategi Jualan**
+
+**🎨 Tema visual:**
+Tone warna tegas & modern (hitam-putih dengan aksen oranye / biru). Gunakan *Montserrat* atau *Inter*. Tambah ikon bisnis & data chart ringan.
+
+### Slide Guide:
+
+**Slide 1:**
+⚡ *Judul:* “Views Gede, Tapi Nggak Ada yang Beli? 🚨”
+📸 Visual: thumbnail konten viral + tulisan besar “0 SALES”.
+
+**Slide 2:**
+*Judul kecil:* “Aku juga pernah.”
+📸 Visual: screenshot post viral 70K views + tulisan kecil “tapi nggak ada checkout”.
+
+**Slide 3:**
+*Judul kecil:* “3 Penyebab Views ≠ Sales”
+📸 Visual: checklist animasi — value, CTA, pain point (centang silang).
+
+**Slide 4:**
+*Judul kecil:* “Strategi Baru yang Aku Coba”
+📸 Visual: 3 bubble: Storytelling, Value, CTA (ikon mini di tiap bubble).
+
+**Slide 5:**
+*Judul kecil:* “Hasilnya?”
+📸 Visual: chart turun di views tapi naik di sales (panah dua arah warna berbeda).
+
+**Slide 6:**
+*Judul kecil:* “Viral ≠ Laku. Relevan = Laku.”
+📸 Visual: dua timbangan: kiri “Viral”, kanan “Relevan” (yang kanan lebih berat).
+
+**Slide 7 (CTA):**
+🔥 *Judul CTA:* “Mau belajar bikin konten yang closing?”
+📸 Visual: teks besar “Ketik CONVERT 🚀” dengan background warna solid kuat (oranye/biru tua).
+
+---
+
+Kamu mau aku bantu buatin **template Canva (layout + font + warna + posisi teks)** buat versi A atau B biar tinggal edit teks & upload aja?
+Mantap! 💕 Kita jalan dengan **Versi A — Emotional / Storytelling** ya.
+
+Sekarang biar template Canva-nya bisa aku desain dengan pas, tinggal isi cepat 3 hal ini aja ⬇️
+
+1️⃣ **Warna utama brand kamu:**
+(Contoh: cream #F8EDEB, peach #FCD5CE, atau warna lain yang kamu suka)
+
+2️⃣ **Font style:**
+Pilih salah satu gaya yang paling cocok:
+
+* ✨ *Lembut elegan* (Playfair Display + Poppins)
+* 💬 *Minimal modern* (Inter + Lato)
+* 🎨 *Casual kreatif* (Raleway + Nunito Sans)
+
+3️⃣ **Nama brand / username IG:**
+(Biar aku taruh watermark kecil di tiap slide, misal: @yourbrand.id)
+
+Begitu kamu kasih 3 info itu, aku langsung buatin:
+✅ Link template Canva
+✅ Layout tiap slide (judul, posisi teks, elemen visual)
+✅ Panduan reuse untuk konten berikutnya
+
+Ketik aja jawabannya di bawah 👇
+
