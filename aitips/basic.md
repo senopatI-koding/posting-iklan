@@ -1,3 +1,4 @@
+ALamat: https://chatgpt.com/g/g-68c4177d833481919d38d55b1056fe59-creator-assistant
 Berikut konten lengkap tentang **High Income Skill** sesuai format terbaik:
 
 PROMPT: Buatkan konten Threads tentang high income skill + caption IG
