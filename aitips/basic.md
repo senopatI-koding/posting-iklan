@@ -60,3 +60,5 @@ Tulis **“MAU”** kalau kamu pengin panduan ubah skill jadi penghasilan digita
 ---
 
 Ingin aku buatin **versi storytelling** atau **versi edukatif (lebih data & tips praktis)** juga sebagai variasi?
+
+https://chatgpt.com/g/g-68c4177d833481919d38d55b1056fe59-creator-assistant
