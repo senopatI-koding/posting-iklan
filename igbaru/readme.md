@@ -10,9 +10,13 @@ Yuk, temani aku membangun generasi Qur’ani yang cerdas, kreatif, dan bahagia. 
 ## 🌿 Versi Panjang (Untuk tampilan bio lengkap & personal)
 
 🌸 Ibu Rumah Tangga | Pendidik Keluarga Qur’ani
+
 💻 Kreator produk digital edukatif anak
+
 🎓 Belajar | Bermain | Bertumbuh bersama Al-Qur’an
+
 📘 Temukan karya & programku di ⤵️
+
 👉 lynk.id/studioeduplay
 
 ## ✨ Versi Pendek (Minimalis & elegan)
