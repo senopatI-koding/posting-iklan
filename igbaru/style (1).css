@@ -1,0 +1,87 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff8f0;
+    color: #333;
+}
+
+.hero {
+    background: #ffcccb;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.cta {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #ff6f61;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.preview img {
+    max-width: 90%;
+    height: auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+
+.benefits ul, .faq ul {
+    list-style: none;
+    padding: 0;
+}
+
+.benefits li, .faq li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.testimonials blockquote {
+    font-style: italic;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+footer {
+    background: #eee;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+}
+
+/* Mobile Responsive Styles */
+@media (max-width: 600px) {
+    body {
+        font-size: 16px;
+    }
+    .hero {
+        padding: 30px 10px;
+    }
+    .cta {
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+    section {
+        padding: 30px 10px;
+    }
+    .preview img {
+        max-width: 100%;
+    }
+    .benefits li, .faq li {
+        font-size: 16px;
+    }
+    .testimonials blockquote {
+        font-size: 16px;
+        padding: 0 10px;
+    }
+}
